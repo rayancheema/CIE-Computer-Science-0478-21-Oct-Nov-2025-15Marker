@@ -1,5 +1,5 @@
-# Computer Science 15-Mark Solution
-
+# Cambridge Computer Science 15-Mark Solution
+# Solved by Rayan Sajid
 ## Question (0478/21, Paper 2 – Algorithms, Programming and Logic, Oct/Nov 2025)
 
 The scores for each competitor in an archery competition are recorded.  
