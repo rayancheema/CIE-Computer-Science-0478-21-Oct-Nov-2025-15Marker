@@ -1,4 +1,5 @@
 # Cambridge Computer Science 15-Mark Solution
+[![Cambridge Assessment](https://www.rainbowschoolparis.com/uploads/1/2/9/7/129767513/cambridge-assesment_orig.png)](https://www.cambridge.org/)
 ## (0478/21, Paper 2 – Algorithms, Programming and Logic, Oct/Nov 2025)
 ### Solved by Rayan Sajid
 
