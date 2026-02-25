@@ -1,7 +1,8 @@
 # Cambridge Computer Science 15-Mark Solution
-## Question (0478/21, Paper 2 – Algorithms, Programming and Logic, Oct/Nov 2025)
+## (0478/21, Paper 2 – Algorithms, Programming and Logic, Oct/Nov 2025)
 ### Solved by Rayan Sajid
 
+#### Question:
 
 The scores for each competitor in an archery competition are recorded.  
 
