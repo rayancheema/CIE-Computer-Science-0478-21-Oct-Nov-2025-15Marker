@@ -1,5 +1,8 @@
-[![Cambridge Assessment](https://www.rainbowschoolparis.com/uploads/1/2/9/7/129767513/cambridge-assesment_orig.png)](https://www.cambridge.org/)
-
+<p align="center">
+  <a href="https://www.cambridge.org/">
+    <img src="https://www.rainbowschoolparis.com/uploads/1/2/9/7/129767513/cambridge-assesment_orig.png" alt="Cambridge Assessment" width="150">
+  </a>
+</p>
 
 # Cambridge Computer Science 15-Mark Solution
 ## (0478/21, Paper 2 – Algorithms, Programming and Logic, Oct/Nov 2025)
