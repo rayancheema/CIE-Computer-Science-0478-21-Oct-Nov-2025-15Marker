@@ -42,6 +42,7 @@ FOR i <-- 1 TO 30
         // Validate input score
         WHILE CompetitorScore[i,j] < 0 OR CompetitorScore[i,j] > 30
             OUTPUT "Please enter a value between 0 & 30 inclusive"
+            INPUT CompetitorScore[i,j]
         ENDWHILE
     NEXT j
 
